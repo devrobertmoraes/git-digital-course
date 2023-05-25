@@ -5,3 +5,5 @@
 ## SALVANDO MODIFICAÇÕES NO GIT
 
 ## SALVANDO MODIFICAÇÕES NO GIT 2
+
+-   comando git push
